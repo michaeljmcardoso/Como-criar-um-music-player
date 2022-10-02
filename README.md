@@ -1,2 +1,2 @@
 # musicplayer
- tocador de músicas python
+ tocador de músicas com python
