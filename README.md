@@ -1,3 +1,2 @@
 # musicplayer
- Como criar um tocador de músicas com algumas linhas de código em python.
- Neste modelo o tocador aceita músicas no formato .ogg.
+ Como criar um music player e tocar uma música direto de nosso código Python.
